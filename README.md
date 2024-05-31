@@ -58,7 +58,7 @@ usuários já pre-definidos <br />
 `Client:` - `user - teste@gmail.com` - `password: 123` <br />
 `ADMIN: ` - `user - teste@admin.com` - `password: 123`
 
-Link utilizado no Deploy - https://foodexplorer-api-p3ph.onrender.com
+Link utilizado no Deploy - [https://foodexplorer-api-p3ph.onrender.com](https://foodexplorer-api-xx7p.onrender.com)
 
 Backend desenvolvido por Lucas Mazini Martins <br />
 Layout desenvolvido por [Rocketseat](https://www.rocketseat.com.br/)
