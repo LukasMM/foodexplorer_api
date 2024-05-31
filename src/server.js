@@ -14,7 +14,7 @@ const app = express()
 app.use(express.json())
 
 app.use(cors({
-  origin: ['http://localhost:5173', 'httP://127.0.0.1:5173/'],
+  origin: ['http://localhost:5173', 'httP://127.0.0.1:5173/', 'https://main--deft-pothos-c2eed1.netlify.app'],
   credentials: true
 }))
 app.use(cookieParser())
